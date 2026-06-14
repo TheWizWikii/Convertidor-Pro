@@ -37,9 +37,11 @@
 ## 📸 Capturas de Pantalla
 
 *(Inserta aquí tus capturas de pantalla para enamorar visualmente al usuario)*
-```text
+
 [ Captura de la interfaz principal procesando un lote de juegos ]
 [ Captura de la consola de logs mostrando un CUE reparado con éxito ]
+
+---
 
 📦 Instalación y Requisitos
 Descarga la última versión estable desde la sección de Releases.
