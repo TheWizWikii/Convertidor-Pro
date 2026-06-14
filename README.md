@@ -55,7 +55,7 @@ Windows 10 / 11 (64-bit).
 ## 🤝 Contribuciones y Soporte
 Si encuentras algún formato rebelde que se resista a la conversión, o si un archivo .cue muy específico logra romper la lógica de súper normalización, por favor abre un Issue adjuntando el log del error o el texto del archivo afectado. ¡Toda ayuda para pulir la herramienta es bienvenida!
 
-## 🤝 Créditos y Herramientas de Terceros
+## 🙏 Créditos y Herramientas de Terceros
 
 **Convertidor Pro** no sería posible sin el increíble trabajo de las comunidades de preservación y emulación. Esta suite integra y automatiza las siguientes herramientas de código abierto:
 
