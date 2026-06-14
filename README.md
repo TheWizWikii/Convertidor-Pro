@@ -36,10 +36,8 @@
 
 ## 📸 Capturas de Pantalla
 
-*(Inserta aquí tus capturas de pantalla para enamorar visualmente al usuario)*
+[img]https://i.imgur.com/Kwmqjkr.png[/img]
 
-[ Captura de la interfaz principal procesando un lote de juegos ]
-[ Captura de la consola de logs mostrando un CUE reparado con éxito ]
 
 ---
 
