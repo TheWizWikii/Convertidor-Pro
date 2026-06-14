@@ -55,7 +55,22 @@ Windows 10 / 11 (64-bit).
 ## 🤝 Contribuciones y Soporte
 Si encuentras algún formato rebelde que se resista a la conversión, o si un archivo .cue muy específico logra romper la lógica de súper normalización, por favor abre un Issue adjuntando el log del error o el texto del archivo afectado. ¡Toda ayuda para pulir la herramienta es bienvenida!
 
+## 🤝 Créditos y Herramientas de Terceros
+
+**Convertidor Pro** no sería posible sin el increíble trabajo de las comunidades de preservación y emulación. Esta suite integra y automatiza las siguientes herramientas de código abierto:
+
+* **[chdman](https://www.mamedev.org/)** (MAME Dev Team) - El motor principal detrás de la compresión CHD sin pérdidas.
+* **[DolphinTool](https://dolphin-emu.org/)** (Dolphin Team) - Utilizado para la manipulación y optimización RVZ/ISO de GameCube y Wii.
+* **[NSZ](https://github.com/nicoboss/nsz)** (Nicoboss) - Herramienta clave para la compresión de alta velocidad de archivos de Nintendo Switch.
+* **[XGDTool](https://github.com/mamedev/mame)** / Herramientas de Xbox - Para la gestión de estructuras ISO y extracción en ecosistemas Xbox.
+* *(Añade aquí cualquier otra si nos faltó alguna especial)*
+
+Agradecemos profundamente a cada uno de los desarrolladores originales por mantener estas herramientas accesibles para toda la comunidad.
+
+---
+
 ## 📄 Licencia
-Este proyecto está bajo la licencia MIT. Las herramientas de terceros utilizadas de forma interna (como chdman, XGDTool, DolphinTool, NSZ etc.) pertenecen a sus respectivos desarrolladores y se distribuyen bajo sus propias condiciones de uso comunitario.
+
+Este proyecto propio está bajo la licencia [MIT](LICENSE). Las herramientas de terceros mencionadas anteriormente pertenecen a sus respectivos desarrolladores y se distribuyen bajo sus propias y correspondientes licencias de uso comunitario.
 
 desarrollado con 💖 para la comunidad de preservación de videojuegos.
