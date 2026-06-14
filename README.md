@@ -56,6 +56,6 @@ Windows 10 / 11 (64-bit).
 Si encuentras algún formato rebelde que se resista a la conversión, o si un archivo .cue muy específico logra romper la lógica de súper normalización, por favor abre un Issue adjuntando el log del error o el texto del archivo afectado. ¡Toda ayuda para pulir la herramienta es bienvenida!
 
 ## 📄 Licencia
-Este proyecto está bajo la licencia MIT. Las herramientas de terceros utilizadas de forma interna (como chdman, etc.) pertenecen a sus respectivos desarrolladores y se distribuyen bajo sus propias condiciones de uso comunitario.
+Este proyecto está bajo la licencia MIT. Las herramientas de terceros utilizadas de forma interna (como chdman, XGDTool, DolphinTool, NSZ etc.) pertenecen a sus respectivos desarrolladores y se distribuyen bajo sus propias condiciones de uso comunitario.
 
 desarrollado con 💖 para la comunidad de preservación de videojuegos.
