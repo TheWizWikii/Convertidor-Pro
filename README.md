@@ -71,6 +71,6 @@ Agradecemos profundamente a cada uno de los desarrolladores originales por mante
 
 ## 📄 Licencia
 
-Este proyecto propio está bajo la licencia [MIT](LICENSE). Las herramientas de terceros mencionadas anteriormente pertenecen a sus respectivos desarrolladores y se distribuyen bajo sus propias y correspondientes licencias de uso comunitario.
+Este proyecto propio está bajo la licencia **[MIT]**. Las herramientas de terceros mencionadas anteriormente pertenecen a sus respectivos desarrolladores y se distribuyen bajo sus propias y correspondientes licencias de uso comunitario.
 
 desarrollado con 💖 para la comunidad de preservación de videojuegos.
