@@ -36,7 +36,7 @@
 
 ## 📸 Capturas de Pantalla
 
-[img]https://i.imgur.com/Kwmqjkr.png[/img]
+![Alt-payload](https://i.imgur.com/Kwmqjkr.png)
 
 
 ---
