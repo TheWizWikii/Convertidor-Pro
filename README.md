@@ -1,6 +1,6 @@
 # 🎮 Convertidor Pro
 
-[![GitHub Release](https://img.shields.io/github/v/release/TU_USUARIO/RedumpScraper?label=Versi%C3%B3n&color=blue)](O/RedumpScraper/releases](https://github.com/TheWizWikii/Convertidor-Pro/releases))
+[![GitHub Release](https://img.shields.io/github/v/release/TheWizWikii/Convertidor-Pro?label=Versi%C3%B3n&color=blue)](https://github.com/TheWizWikii/Convertidor-Pro/releases)
 
 **Convertidor Pro** (desarrollado bajo el ecosistema *RedumpScraper*) es la herramienta definitiva de automatización, conversión y optimización de copias de seguridad de videojuegos. Diseñada tanto para entusiastas de la emulación como para usuarios de hardware real, esta suite unifica los procesos más complejos de descifrado, compresión y cambio de formatos en una interfaz fluida, rápida y automatizada.
 
