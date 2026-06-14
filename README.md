@@ -62,8 +62,8 @@ Si encuentras algún formato rebelde que se resista a la conversión, o si un ar
 * **[chdman](https://www.mamedev.org/)** (MAME Dev Team) - El motor principal detrás de la compresión CHD sin pérdidas.
 * **[DolphinTool](https://dolphin-emu.org/)** (Dolphin Team) - Utilizado para la manipulación y optimización RVZ/ISO de GameCube y Wii.
 * **[NSZ](https://github.com/nicoboss/nsz)** (Nicoboss) - Herramienta clave para la compresión de alta velocidad de archivos de Nintendo Switch.
-* **[XGDTool](https://github.com/mamedev/mame)** / Herramientas de Xbox - Para la gestión de estructuras ISO y extracción en ecosistemas Xbox.
-* *(Añade aquí cualquier otra si nos faltó alguna especial)*
+* **[XGDTool](https://github.com/wiredopposite/XGDTool)** / Herramientas de Xbox - Para la gestión de estructuras ISO y extracción en ecosistemas Xbox.
+  
 
 Agradecemos profundamente a cada uno de los desarrolladores originales por mantener estas herramientas accesibles para toda la comunidad.
 
