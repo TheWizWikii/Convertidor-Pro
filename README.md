@@ -12,15 +12,15 @@
 
 | Sistema | Formatos de Entrada | Formatos de Salida / Operación | Objetivo / Optimización |
 | :--- | :--- | :--- | :--- |
-| **💿 PlayStation 1** | `.cue` / `.bin` (Múltiples pistas) | `.chd` | **Súper Normalización:** Repara automáticamente archivos `.cue` defectuosos (rutas absolutas, errores de sintaxis en `MODE2` o índices de tiempo) antes de enviarlos a `chdman`. |
-| **💿 PlayStation 2** | `.iso` | `.chd`, `.zso` | Compresión ideal para PCSX2 y formato `.zso` optimizado para carga desde **OPL (Open PS2 Loader)**. |
+| **💿 PS1** | `.cue` / `.bin` (Múltiples pistas) | `.chd` | **Súper Normalización:** Repara automáticamente archivos `.cue` defectuosos (rutas absolutas, errores de sintaxis en `MODE2` o índices de tiempo) antes de enviarlos a `chdman`. |
+| **💿 PS2** | `.iso` | `.chd`, `.zso` | Compresión ideal para PCSX2 y formato `.zso` optimizado para carga desde **OPL (Open PS2 Loader)**. |
 | **💿 PSP** | `.iso` | `.chd`, `.zso`, `.cso` | Flexibilidad total de compresión para PPSSPP y hardware real. |
-| **💿 PlayStation 3** | `.iso` (Redump encriptado) | ISO descifrada, Formato Carpeta (`JB Folder`) | Descifra imágenes Redump nativas para hacerlas jugables en **RPCS3** o prepararlas en carpetas para tu **PS3 con CFW/HEN**. |
-| **💿 Xbox Clásica** | Formato Carpeta, `.iso` (Redump) | `.xiso` (ISO optimizada), ISO descifrada | Convierte carpetas sueltas a `.xiso` compatible y descifra ISOs complejas de Redump para jugarlas directamente en **Xemu**. |
+| **💿 PS3** | `.iso` (Redump encriptado) | ISO descifrada, Formato Carpeta (`JB Folder`) | Descifra imágenes Redump nativas para hacerlas jugables en **RPCS3** o prepararlas en carpetas para tu **PS3 con CFW/HEN**. |
+| **💿 Xbox** | Formato Carpeta, `.iso` (Redump) | `.xiso` (ISO optimizada), ISO descifrada | Convierte carpetas sueltas a `.xiso` compatible y descifra ISOs complejas de Redump para jugarlas directamente en **Xemu**. |
 | **💿 Xbox 360** | `.iso` | Carpeta `.XEX`, GoD (Games on Demand), `.zar`, `.iso` | Extrae a formato nativo, genera paquetes GoD para consolas con RGH/JTAG, y comprime al formato extremo **`.zar` para el emulador Xenia**. |
 | **💿 Wii & GameCube** | `.iso`, `.gcm`, `.wbfs`, `.rvz` | `.wbfs`, `.rvz`, `.iso` (Scrubbed), `.gcm` | Optimización mediante *Scrubbing* (eliminación de datos basura), conversión a `.wbfs` para loaders de Wii, y compresión `.rvz` sin pérdidas para **Dolphin**. |
-| **💿 Nintendo 3DS** | `.cia`, `.3ds`, `.cci` (Redump) | `.3ds`, `.cia`, `.3dsx`, `.cci` descifrado | Intercambio bidireccional entre CIA/3DS, descifrado automático de copias Redump (`.cci`) y conversión a `.3dsx` para el emulador **Azahar**. |
-| **💿 Nintendo Switch**| `.nsp`, `.nsz` | `.nsz`, `.nsp` | Conversión bidireccional de alta velocidad para optimizar almacenamiento en emuladores como Ryujinx/Yuzu. |
+| **💿 3DS** | `.cia`, `.3ds`, `.cci` (Redump) | `.3ds`, `.cia`, `.3dsx`, `.cci` descifrado | Intercambio bidireccional entre CIA/3DS, descifrado automático de copias Redump (`.cci`) y conversión a `.3dsx` para el emulador **Azahar**. |
+| **💿 Switch**| `.nsp`, `.nsz` | `.nsz`, `.nsp` | Conversión bidireccional de alta velocidad para optimizar almacenamiento en emuladores como Ryujinx/Yuzu. |
 
 ---
 
